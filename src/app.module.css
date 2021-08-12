@@ -1,0 +1,18 @@
+.sidepanel {
+    width: 360px!important;
+    font-size: 1.2rem!important;
+    height: 100vh!important;
+}
+
+
+
+@media (max-width:480px) {
+    .sidepanel {
+        display: none!important;
+    }
+    .deneme {
+        width: 120%!important;
+    }
+    
+}
+

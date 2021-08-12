@@ -1,0 +1,11 @@
+.image {
+    padding: 1rem;
+    width: 50%;
+    border-radius: 2rem;
+}
+
+@media (max-width:480px) {
+    .chatPanel {
+        width: 100%!important;
+    }
+}

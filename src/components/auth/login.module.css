@@ -1,0 +1,12 @@
+.whiteLabel {
+    color: white!important;
+}
+
+
+.container {
+    /* height: calc(100vh - 2.5rem); */
+    height: 101.5vh;
+    background: url("../../assets/image/bg-first.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
